@@ -32,7 +32,7 @@ You're good to go :)
 
 ## Usage <a name = "usage"></a>
 
-Run the project passing the file path and the output file name (optional) as an argument
+Run the project passing the input file path and the output file name (optional) as an argument
 
 Example:
 
