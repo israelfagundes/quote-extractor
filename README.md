@@ -23,6 +23,11 @@ Clone the project:
 git clone https://github.com/israelfagundes/quote-extractor.git
 ```
 
+Go to project's folder:
+```
+cd quote-extractor
+```
+
 You're good to go :)
 
 ## Usage <a name = "usage"></a>
