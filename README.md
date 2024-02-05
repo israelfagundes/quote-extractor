@@ -16,6 +16,15 @@ Simple Node.js script to extract all occurrences of text within parenthesis from
 
 To run the project you will need to have Node.js installed on your system.
 
+### Installing
+
+Clone the project:
+```
+git clone https://github.com/israelfagundes/quote-extractor.git
+```
+
+You're good to go :)
+
 ## Usage <a name = "usage"></a>
 
 Run the project passing the file path and the output file name (optional) as an argument
